@@ -17,7 +17,7 @@ The target dataset is the **Facebook Social Circles** network from Stanford SNAP
 
 ## Project Video
 
-🎥 **[Watch the 2-minute project walkthrough](#)** *(link will be added before final submission)*
+🎥 **[Watch the 2-minute project walkthrough](#)** *(https://www.youtube.com/watch?v=D78wGRhHHi0)*
 
 ---
 
